@@ -21,7 +21,14 @@
 #         break
 # print('Thank you!')
 
-#Example of Infinite Loop
+# Example of Infinite Loop
 # while True:
 #     print('Please type your name.')
 
+
+# Example 4
+print("My name is")
+i = 0
+while i < 5:
+    print("Jimmy Five Times (" + str(i) + ")")
+    i = i + 1
